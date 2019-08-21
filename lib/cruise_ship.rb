@@ -9,5 +9,5 @@
 def select_winner(passengers)
   # add the code snippet here!
   
-  passengers[suite_a]
+  passengers[:suite_a]
 end
